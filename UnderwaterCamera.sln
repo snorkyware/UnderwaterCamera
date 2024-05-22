@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{500653cd-60d2-4559-953c-be9329df7821}") = "UnderwaterCamera", "UnderwaterCamera.csproj", "{8d5949d3-882f-4557-827f-b915610e7753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8d5949d3-882f-4557-827f-b915610e7753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8d5949d3-882f-4557-827f-b915610e7753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8d5949d3-882f-4557-827f-b915610e7753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8d5949d3-882f-4557-827f-b915610e7753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
